@@ -1,0 +1,29 @@
+Test Case 1
+
+Kata awal: bad
+Kata akhir: dad
+
+Test Case 2
+
+Kata awal: dad
+Kata awal: tea
+
+Test Case 3
+
+Kata awal: sand
+Kata awal: grit
+
+Test Case 4
+
+Kata awal: smile
+Kata awal: tarot
+
+Test Case 5
+
+Kata awal: before
+Kata awal: county
+
+Test Case 6
+
+Kata awal: boredom
+Kata awal: control
